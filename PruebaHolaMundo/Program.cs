@@ -6,7 +6,9 @@ namespace PruebaHolaMundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Pablo MEnudi");
+
+            Console.WriteLine("Galicia")
+
         }
     }
 }
