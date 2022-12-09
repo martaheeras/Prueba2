@@ -6,7 +6,7 @@ namespace PruebaHolaMundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola");
+            Console.WriteLine("Hola Natalia");
         }
     }
 }
